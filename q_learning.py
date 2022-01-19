@@ -84,7 +84,7 @@ for _ in range(num_of_episodes):
     total_epochs += epochs
 
 print("********************")
-print("Results")
+print("The Results")
 print("********************")
 print("Epochs per episode: {}".format(total_epochs / num_of_episodes))
 print("Penalties per episode: {}".format(total_penalties / num_of_episodes))
